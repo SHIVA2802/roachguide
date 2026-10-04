@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://shiva2802.github.io/roachguide/sitemap.xml
